@@ -97,6 +97,36 @@ class MuhammadAsad:
 > 🔗 **14+ open-source projects** on GitHub · Portfolio deployed on Netlify
 
 ---
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asad594&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad594&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎖️ Achievements & Highlights
+
+- 🚀 **14+ open-source projects** on GitHub across Java, Python, C#, and JavaScript
+- 🌐 **Portfolio deployed on Netlify** — 10+ production-quality projects spanning web dev, AI tools & algorithm visualizations
+- 💼 **CodeAlpha Internship** — delivered enterprise-style Java applications under real project deadlines
+- 🤖 **Built AI-powered tool** (Requirement Genie) applying NLP to real software engineering problems
+- 📊 **Self-taught Streamlit, Pandas & data visualization** — shipped multiple deployable dashboard apps beyond coursework
+- ⚙️ **MIPS Assembly project** — built a full task manager in pure Assembly language
+- 🏢 **ByteCorp Technologies Intern** — currently working as Software Development Engineer Trainee
+
 
 ## 📊 GitHub Stats
 
