@@ -119,9 +119,12 @@ class MuhammadAsad:
 ## 🎯 Currently Working On
 
 - 🏢 **Software Development Intern** @ ByteCorp Technologies, Karachi
-- 📐 **Software Design & Architecture** — deep diving into architectural styles, patterns & evaluation
-- 🧠 **DSA Mastery** — dynamic programming, graph algorithms & advanced data structures
 - 🌐 **Full Stack Projects** — building production-quality web apps end to end
+- 🗄️ **Databases** — normalization, transactions, distributed DBs, NoSQL & concurrency control
+- 🐧 **Linux & Operating Systems** — memory management, process sync, deadlocks & virtual memory
+- 🧩 **Design & Analysis of Algorithms** — dynamic programming, graph algorithms, greedy & string matching
+- 📐 **Software Design & Architecture** — architectural styles, design patterns, ATAM evaluation & MDD
+- 🧠 **DSA Mastery** — advanced data structures, backtracking & algorithm visualization
 
 ---
 
