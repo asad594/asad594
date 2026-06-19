@@ -97,15 +97,7 @@ class MuhammadAsad:
 > 🔗 **14+ open-source projects** on GitHub · Portfolio deployed on Netlify
 
 ---
-## 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asad594&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
