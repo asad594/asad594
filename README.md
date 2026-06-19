@@ -102,15 +102,15 @@ class MuhammadAsad:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asad594&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asad594&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&bg_color=1a1b27" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad594&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad594&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=1a1b27" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asad594&theme=default&hide_border=true&stroke=000000&ring=000000&fire=333333&currStreakLabel=000000" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asad594&theme=tokyonight&hide_border=true&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=c9d1d9&dates=c9d1d9&background=1a1b27" height="165"/>
 
 </div>
 
