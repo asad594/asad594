@@ -144,3 +144,23 @@ class MuhammadAsad:
 ![Visitor Count](https://komarev.com/ghpvc/?username=asad594&color=000000&style=flat-square&label=Profile+Views)
 
 </div>
+
+## 🌐 Connect With Me
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/muhammadasad-arshad](https://www.linkedin.com/in/muhammadasad-arshad/) |
+| 🐙 GitHub | [github.com/asad594](https://github.com/asad594) |
+| 📧 Email | [asad.spartan300@gmail.com](mailto:asad.spartan300@gmail.com) |
+| 🌐 Portfolio | [muhammadasadpportfolio.netlify.app](https://muhammadasadpportfolio.netlify.app) |
+| 📍 Location | Karachi, Pakistan 🇵🇰 |
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=asad594&color=70a5fd&style=flat-square&label=Profile+Views)
+
+</div>
+
+
