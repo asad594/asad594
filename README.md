@@ -81,6 +81,30 @@ class MuhammadAsad:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
+## 🗂️ All Projects by Category
+
+### 🌐 Web Development
+- [Food Heaven](https://github.com/asad594/Food-Heaven-) — Restaurant management system
+- [CookBook Website](https://github.com/asad594/CookBook-Website-Project) — Recipe sharing platform
+- [Hotel Reservation System](https://github.com/asad594/CodeAlpha_Hotel-Reservation-System) — Booking system
+
+### 🐍 Python & Data
+- [Python Basic Projects](https://github.com/asad594/Python-Basic-Projects) — Core Python practice
+- [Python Streamlit Projects](https://github.com/asad594/Python-Streamlit-Projects) — Data dashboards
+
+### 🎮 Games & Puzzles
+- [Snake Game](https://github.com/asad594/Snake-Game-) — Classic snake in JS
+- [Algo Puzzle Board](https://github.com/asad594/Algo-Puzzle-Board) — Algorithm visualizer
+
+### ⚙️ Systems & Low-Level
+- [MIPS Assembly Dashboard](https://github.com/asad594/Productivity-Dashboard-MIPS-assembly-Language) — Task manager in Assembly
+- [Kernel Flow](https://github.com/asad594/Kernel-FLow-) — OS concepts project
+
+### 🤖 AI & Tools
+- [Requirement Genie](https://github.com/asad594/Requirement-Genie) — NLP SRS generator
+- [Decode And Discover](https://github.com/asad594/Decode-And-Discover) — Cipher challenges
+- [Job Ranking System](https://github.com/asad594/Job-Ranking-System) — Candidate ranker
+- [Student Grade Tracker](https://github.com/asad594/CodeAlpha_Student_Grade_Tracker_Manager) — Grade management
 
 ## 🚀 Featured Projects
 
