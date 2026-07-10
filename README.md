@@ -489,11 +489,6 @@ Worked on software development projects while collaborating with a distributed t
 
 ---
 
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Learning-informational?style=for-the-badge)
-
----
 
 ## Oracle
 
@@ -504,12 +499,6 @@ Worked on software development projects while collaborating with a distributed t
 ## AWS
 
 ![](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge)
-
----
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Continuous_Learning-success?style=for-the-badge)
 
 ---
 
@@ -552,16 +541,6 @@ Worked on software development projects while collaborating with a distributed t
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=asad594&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asad594&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
