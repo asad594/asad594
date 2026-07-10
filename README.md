@@ -434,30 +434,30 @@ Classic Snake Game built in Java featuring smooth controls, collision detection,
 
 # Professional Experience
 
-## Backend Development Trainee *(Hybrid)*
+## Software Engineering Intern *(Hybrid)*
 
-**ByteCorp Technologies – Training Program**  
-**Jul 2026 – Present (3-Month Program)**
+**ByteCorp Technologies**  
+**Jul 2026 – Present**
 
-Collaborating with a technical mentor on the end-to-end development of a production-style backend system, gaining hands-on experience with modern backend engineering practices.
+Contributing to the development of a production-style backend system while working closely with experienced engineers and following modern software engineering practices.
 
 ### Responsibilities & Achievements
 
 - Collaborating with a technical mentor on the end-to-end development of a production-style backend system, from database design through API implementation and security.
-- Following a structured pull request (PR)-based workflow by submitting code for review and incorporating mentor feedback to meet production-grade engineering standards.
-- Taking ownership of independent modules, including database schema design, authentication, and authorization while following industry-standard Git workflows and version control practices.
+- Following a structured pull request (PR)-based workflow, submitting code for review and incorporating mentor feedback to meet production-grade engineering standards.
+- Taking ownership of independent modules, including database schema design, authentication, and authorization, while following industry-standard Git and version control practices.
 - Successfully delivered **Phase 1** of the project on schedule, with upcoming phases focused on advanced software design patterns and scalable backend architecture.
 
 ### Technologies
 
-`PostgreSQL` `SQL` `Backend Development` `REST APIs` `Authentication` `Authorization` `Git` `GitHub` `Software Design Patterns`
+`PostgreSQL` `SQL` `REST APIs` `Authentication` `Authorization` `Git` `GitHub` `Backend Development`
 
 ---
 
 ## Software Development Intern *(Remote)*
 
-**CodeAlpha – Project-Based Internship**  
-**2024 (4-Week Engagement)**
+**CodeAlpha**  
+**2024 (4-Week Internship)**
 
 Completed a project-based software development internship focused on building production-quality Java applications while following industry-standard development practices.
 
@@ -470,6 +470,7 @@ Completed a project-based software development internship focused on building pr
 ### Technologies
 
 `Java` `OOP` `Git` `GitHub` `CSV File Handling` `Software Design Patterns`
+---
 
 ### Skills
 
