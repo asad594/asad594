@@ -434,23 +434,42 @@ Classic Snake Game built in Java featuring smooth controls, collision detection,
 
 # Professional Experience
 
-## Software Engineering Intern
+## Backend Development Trainee *(Hybrid)*
 
-### CodeAlpha
+**ByteCorp Technologies – Training Program**  
+**Jul 2026 – Present (3-Month Program)**
 
-**Remote | 2024 – 2025**
+Collaborating with a technical mentor on the end-to-end development of a production-style backend system, gaining hands-on experience with modern backend engineering practices.
 
-Worked on software development projects while collaborating with a distributed team using modern development practices.
+### Responsibilities & Achievements
 
-### Responsibilities
+- Collaborating with a technical mentor on the end-to-end development of a production-style backend system, from database design through API implementation and security.
+- Following a structured pull request (PR)-based workflow by submitting code for review and incorporating mentor feedback to meet production-grade engineering standards.
+- Taking ownership of independent modules, including database schema design, authentication, and authorization while following industry-standard Git workflows and version control practices.
+- Successfully delivered **Phase 1** of the project on schedule, with upcoming phases focused on advanced software design patterns and scalable backend architecture.
 
-- Developed Python and Streamlit applications.
-- Built automation scripts to improve workflows.
-- Collaborated using Git and GitHub.
-- Applied Object-Oriented Programming principles.
-- Participated in code reviews.
-- Followed structured software development practices.
-- Improved application usability and maintainability.
+### Technologies
+
+`PostgreSQL` `SQL` `Backend Development` `REST APIs` `Authentication` `Authorization` `Git` `GitHub` `Software Design Patterns`
+
+---
+
+## Software Development Intern *(Remote)*
+
+**CodeAlpha – Project-Based Internship**  
+**2024 (4-Week Engagement)**
+
+Completed a project-based software development internship focused on building production-quality Java applications while following industry-standard development practices.
+
+### Responsibilities & Achievements
+
+- Delivered two production-quality Java applications: **Student Grade Manager** and **Hotel Reservation System**, developed according to real internship specifications and reviewed on GitHub.
+- Applied clean coding principles, Object-Oriented Programming (OOP), software design patterns, Git version control, and comprehensive project documentation throughout the internship.
+- Both project submissions were adopted as **reference implementations** on the internship platform following positive architecture and code quality reviews.
+
+### Technologies
+
+`Java` `OOP` `Git` `GitHub` `CSV File Handling` `Software Design Patterns`
 
 ### Skills
 
