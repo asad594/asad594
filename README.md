@@ -4,9 +4,9 @@
 
 # Muhammad Asad
 
-### Software Engineering Student • AI Enthusiast • Full Stack Developer • Problem Solver
+### Software Engineering Student • C# Developer • Java Developer • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Explorer;C%23+%7C+Java+%7C+Python+Developer;Desktop+Application+Developer;Future+Software+Engineer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;C%23+Developer;Java+Developer;Python+Developer;Desktop+Application+Developer;Always+Learning+New+Technologies"/>
 
 <br>
 
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/asad594">
+<a href="#">
 <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge"/>
 </a>
 
@@ -50,25 +50,25 @@
 
 I am a **Software Engineering undergraduate at Bahria University Karachi (Batch 2028)** who enjoys building reliable, scalable and user-friendly software solutions.
 
-My primary interests lie in **Software Engineering, Artificial Intelligence, Desktop Application Development, Object-Oriented Design, Algorithms, and Full Stack Development.**
+My primary interests lie in **Software Engineering, Desktop Application Development, Object-Oriented Programming, Data Structures & Algorithms, Database Design, and Full Stack Development.**
 
-I enjoy turning ideas into practical applications while continuously learning modern technologies and best engineering practices.
+I enjoy turning ideas into practical applications while continuously learning modern technologies and software engineering best practices.
 
-I have experience developing projects using **C#, Java, Python, SQL, Windows Forms, Java Swing, Streamlit, HTML, CSS, JavaScript, and GitHub.**
+I have experience developing projects using **C#, Java, Python, SQL, Windows Forms, Java Swing, HTML, CSS, JavaScript, Streamlit, and GitHub.**
 
-My long-term goal is to become a highly skilled Software Engineer contributing to enterprise-scale software and AI-driven products.
+My long-term goal is to become a highly skilled Software Engineer contributing to enterprise-scale software products.
 
 ---
 
 ## Open To
 
 - Software Engineering Internships
-- AI/ML Projects
 - Open Source Contributions
-- Full Stack Development
 - Desktop Application Development
-- Research Projects
-- Collaborative Engineering Teams
+- Full Stack Development
+- Java Development
+- C#/.NET Development
+- Collaborative Projects
 
 ---
 
@@ -98,35 +98,34 @@ My long-term goal is to become a highly skilled Software Engineer contributing t
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql"/>
+<img src="https://skillicons.dev/icons?i=dotnet,mysql"/>
 
 </p>
 
 ---
 
-## Cloud • DevOps • Tooling
+## Tools & IDEs
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea"/>
 
 </p>
 
 ---
 
-# AI / Machine Learning Expertise
+# Technical Skills
 
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| Artificial Intelligence | ⭐⭐⭐⭐☆ | AI-powered desktop and web applications |
-| Natural Language Processing | ⭐⭐⭐⭐☆ | Requirement extraction and SRS generation |
-| Prompt Engineering | ⭐⭐⭐⭐☆ | Designing structured prompts for LLMs |
-| Machine Learning Concepts | ⭐⭐⭐☆☆ | Model understanding and AI workflows |
-| Streamlit Development | ⭐⭐⭐⭐⭐ | Interactive AI web applications |
-| Python Automation | ⭐⭐⭐⭐☆ | Automation scripts and intelligent tools |
-| Data Structures & Algorithms | ⭐⭐⭐⭐☆ | Efficient algorithm implementation |
-| Software Engineering | ⭐⭐⭐⭐⭐ | Design patterns, OOP and SDLC |
-| Database Design | ⭐⭐⭐⭐☆ | SQL, relational modeling, normalization |
+| Category | Skills |
+|---------|---------|
+| Programming Languages | C#, Java, Python, C, C++ |
+| Web Development | HTML, CSS, JavaScript |
+| Desktop Development | Windows Forms, Java Swing |
+| Database | SQL, MySQL |
+| Core Concepts | OOP, Data Structures & Algorithms |
+| Software Engineering | SDLC, Design Patterns, Requirement Engineering |
+| Tools | Git, GitHub, Visual Studio, VS Code, IntelliJ IDEA |
+| Other | Streamlit, MIPS Assembly, System Design (Basics) |
 
 ---
 
@@ -156,7 +155,6 @@ Enterprise desktop application for HR departments that automates recruitment, ca
 - Recruitment workflow automation
 - HR dashboards
 - Report generation
-- Clean desktop UI
 - Object-Oriented Architecture
 
 </details>
@@ -201,24 +199,24 @@ Comprehensive restaurant software supporting reservations, billing, inventory an
 
 </summary>
 
-Interactive desktop platform that visualizes classic algorithms through step-by-step animations, helping students understand backtracking and search techniques.
+Interactive educational desktop application that visualizes classic algorithms through step-by-step animations, making complex concepts easier to understand.
 
 | Category | Details |
 |----------|----------|
-| Stack | C# • Windows Forms • Algorithms |
-| Scale | Educational Platform |
-| Performance | Smooth Real-Time Visualization |
+| Stack | C# • Windows Forms |
+| Scale | Educational Desktop Application |
+| Performance | Smooth Algorithm Visualization |
 | Security | Modular OOP Architecture |
-| Impact | Improved Algorithm Learning |
+| Impact | Enhanced Learning Experience |
 | Repository | Coming Soon |
 
 ### Highlights
 
 - N-Queens visualization
-- Knight's Tour simulation
-- Backtracking animation
-- Dynamic decision tree rendering
-- Educational desktop interface
+- Knight's Tour visualization
+- Backtracking algorithm animation
+- Interactive decision tree rendering
+- User-friendly Windows Forms interface
 
 </details>
 
@@ -227,28 +225,28 @@ Interactive desktop platform that visualizes classic algorithms through step-by-
 <details>
 <summary>
 
-## CookBook AI Web App
+## CookBook Web Application
 
 </summary>
 
-AI-powered recipe discovery platform developed during the CodeAlpha Internship that recommends recipes using intelligent ingredient-based filtering.
+A recipe discovery web application developed during my CodeAlpha internship that allows users to search recipes using ingredients with a clean and responsive interface.
 
 | Category | Details |
 |----------|----------|
-| Stack | Python • Streamlit • AI |
+| Stack | Python • Streamlit |
 | Scale | Web Application |
-| Performance | Optimized State Management |
+| Performance | Fast Ingredient Filtering |
 | Security | Input Validation |
-| Impact | Intelligent Recipe Discovery |
+| Impact | Simplified Recipe Discovery |
 | Repository | Coming Soon |
 
 ### Highlights
 
-- AI-assisted recipe suggestions
-- Ingredient-based search
-- Responsive interface
-- Multi-page Streamlit application
-- Clean user experience
+- Ingredient-based recipe search
+- Responsive Streamlit interface
+- Multi-page application
+- Organized recipe management
+- Simple and intuitive user experience
 
 </details>
 
@@ -261,22 +259,22 @@ AI-powered recipe discovery platform developed during the CodeAlpha Internship t
 
 </summary>
 
-AI-powered Software Requirement Engineering assistant that gathers user requirements and automatically generates structured Software Requirement Specification (SRS) documents.
+A Software Requirements Engineering tool designed to assist in gathering user requirements and generating structured Software Requirement Specification (SRS) documents.
 
 | Category | Details |
 |----------|----------|
-| Stack | Python • NLP • AI |
-| Scale | Software Engineering Tool |
+| Stack | Python |
+| Scale | Desktop Application |
 | Performance | Fast Requirement Processing |
 | Security | Structured Data Validation |
-| Impact | Automated Requirement Engineering |
+| Impact | Simplifies Requirement Gathering |
 | Repository | Coming Soon |
 
 ### Highlights
 
 - Requirement elicitation
-- Functional & Non-functional requirement extraction
-- NLP-powered processing
+- Functional requirement collection
+- Non-functional requirement collection
 - Automatic SRS generation
 - User-friendly desktop interface
 
@@ -291,15 +289,15 @@ AI-powered Software Requirement Engineering assistant that gathers user requirem
 
 </summary>
 
-Interactive educational application that teaches cryptography through visualization of classic encryption algorithms.
+Educational cryptography application demonstrating classical encryption techniques through interactive examples.
 
 | Category | Details |
 |----------|----------|
-| Stack | Python • Cryptography |
-| Scale | Educational Tool |
-| Performance | Interactive Encryption Engine |
-| Security | Cipher Demonstrations |
-| Impact | Cybersecurity Education |
+| Stack | Python |
+| Scale | Educational Software |
+| Performance | Interactive Demonstrations |
+| Security | Classical Cryptography Concepts |
+| Impact | Improved Learning Experience |
 | Repository | Coming Soon |
 
 ### Highlights
@@ -307,8 +305,8 @@ Interactive educational application that teaches cryptography through visualizat
 - Caesar Cipher
 - Vigenère Cipher
 - Substitution Cipher
-- Interactive encryption
-- Step-by-step visualization
+- Encryption & Decryption
+- Educational Interface
 
 </details>
 
@@ -321,24 +319,24 @@ Interactive educational application that teaches cryptography through visualizat
 
 </summary>
 
-Console-based hotel reservation management system supporting booking, cancellation, and reservation management using object-oriented design.
+Console-based Java application for hotel booking and reservation management using Object-Oriented Programming concepts.
 
 | Category | Details |
 |----------|----------|
-| Stack | Java • OOP • CSV |
+| Stack | Java • CSV |
 | Scale | Console Application |
 | Performance | Lightweight |
-| Security | Modular Architecture |
-| Impact | Reservation Automation |
+| Security | Modular Design |
+| Impact | Hotel Booking Management |
 | Repository | Coming Soon |
 
 ### Highlights
 
 - Room booking
-- Reservation management
-- CSV persistence
-- Object-Oriented Design
-- Menu-driven interface
+- Reservation cancellation
+- CSV file storage
+- Modular classes
+- Menu-driven system
 
 </details>
 
@@ -351,7 +349,7 @@ Console-based hotel reservation management system supporting booking, cancellati
 
 </summary>
 
-Java console application for managing academic performance with automatic grading and report generation.
+Java console application for managing student records, grades, and academic performance.
 
 | Category | Details |
 |----------|----------|
@@ -359,16 +357,16 @@ Java console application for managing academic performance with automatic gradin
 | Scale | Console Application |
 | Performance | Fast Grade Processing |
 | Security | Input Validation |
-| Impact | Academic Record Management |
+| Impact | Student Performance Tracking |
 | Repository | Coming Soon |
 
 ### Highlights
 
-- Student records
+- Student management
 - Grade calculation
-- GPA reports
-- Subject management
-- Summary analytics
+- Average score reports
+- Letter grades
+- Summary reports
 
 </details>
 
@@ -381,24 +379,24 @@ Java console application for managing academic performance with automatic gradin
 
 </summary>
 
-Low-level productivity dashboard developed entirely in MIPS Assembly to demonstrate systems programming and memory management concepts.
+A productivity tracking application developed completely in MIPS Assembly to demonstrate low-level programming concepts.
 
 | Category | Details |
 |----------|----------|
 | Stack | MIPS Assembly |
-| Scale | Low-Level System |
+| Scale | Low-Level Programming |
 | Performance | Register-Based Processing |
-| Security | Direct Memory Operations |
-| Impact | Systems Programming Demonstration |
+| Security | Direct Memory Management |
+| Impact | Demonstrates Assembly Programming |
 | Repository | Coming Soon |
 
 ### Highlights
 
 - Task management
-- Register manipulation
 - Memory operations
+- Register manipulation
 - Priority tracking
-- Low-level programming concepts
+- Assembly programming concepts
 
 </details>
 
@@ -411,14 +409,14 @@ Low-level productivity dashboard developed entirely in MIPS Assembly to demonstr
 
 </summary>
 
-Classic Snake Game developed using Java and Object-Oriented Programming principles with smooth gameplay and score tracking.
+Classic Snake Game built in Java featuring smooth controls, collision detection, and score tracking using Object-Oriented Programming principles.
 
 | Category | Details |
 |----------|----------|
-| Stack | Java • OOP |
+| Stack | Java |
 | Scale | Desktop Game |
-| Performance | Real-Time Rendering |
-| Security | Modular Game Engine |
+| Performance | Real-Time Gameplay |
+| Security | Clean OOP Design |
 | Impact | Interactive Entertainment |
 | Repository | Coming Soon |
 
@@ -426,9 +424,9 @@ Classic Snake Game developed using Java and Object-Oriented Programming principl
 
 - Smooth controls
 - Collision detection
-- Real-time score tracking
-- Object-Oriented Architecture
-- Extensible game engine
+- Real-time score
+- Game state management
+- Object-Oriented architecture
 
 </details>
 
@@ -440,30 +438,30 @@ Classic Snake Game developed using Java and Object-Oriented Programming principl
 
 ### CodeAlpha
 
-**Remote • 2024 – 2025**
+**Remote | 2024 – 2025**
 
-Worked on AI-powered software projects and collaborated within a distributed development environment while following modern software engineering practices.
+Worked on software development projects while collaborating with a distributed team using modern development practices.
 
 ### Responsibilities
 
-- Developed AI-powered applications using Python and Streamlit.
-- Built automation tools to improve workflow efficiency.
+- Developed Python and Streamlit applications.
+- Built automation scripts to improve workflows.
 - Collaborated using Git and GitHub.
-- Implemented clean Object-Oriented Programming principles.
-- Participated in peer code reviews.
-- Worked within Agile-inspired development workflows.
+- Applied Object-Oriented Programming principles.
+- Participated in code reviews.
+- Followed structured software development practices.
 - Improved application usability and maintainability.
 
 ### Skills
 
 `Python`
+`Java`
+`C#`
 `Streamlit`
 `Git`
 `GitHub`
-`AI`
-`Software Engineering`
-`Automation`
 `OOP`
+`Software Engineering`
 
 ---
 
@@ -474,11 +472,10 @@ Worked on AI-powered software projects and collaborated within a distributed dev
 | Recognition | Details |
 |-------------|---------|
 | 🏆 CodeAlpha Internship | Successfully completed Software Engineering Internship |
-| 🎓 Bahria University | Software Engineering Undergraduate (Batch 2028) |
-| 💻 Open Source | Active GitHub contributor |
-| 🚀 Desktop Development | Multiple enterprise-scale desktop applications |
-| 🤖 AI Development | Built AI-powered software solutions |
-| 📚 Continuous Learning | Regularly exploring modern software technologies |
+| 🎓 Bahria University | Software Engineering Undergraduate |
+| 💻 Open Source | Active GitHub Contributor |
+| 🖥 Desktop Development | Developed multiple desktop applications |
+| 📚 Continuous Learning | Constantly improving programming and software engineering skills |
 
 </div>
 
@@ -513,8 +510,6 @@ Worked on AI-powered software projects and collaborated within a distributed dev
 ## NPTEL
 
 ![](https://img.shields.io/badge/NPTEL-Continuous_Learning-success?style=for-the-badge)
-
----
 
 ---
 
@@ -590,7 +585,7 @@ Worked on AI-powered software projects and collaborated within a distributed dev
 
 </div>
 
-> **Note:** After creating your GitHub profile repository, you'll need to set up a GitHub Action to automatically generate the snake animation.
+> **Note:** The snake animation will work after adding the GitHub Actions workflow to your profile repository.
 
 ---
 
@@ -598,35 +593,38 @@ Worked on AI-powered software projects and collaborated within a distributed dev
 
 ```yaml
 Learning:
-  - Advanced Data Structures & Algorithms
-  - System Design
-  - Artificial Intelligence
-  - Machine Learning
-  - Cloud Computing (AWS)
-  - Docker
   - React
-  - Microservices
+  - Docker
+  - Advanced Java
+  - ASP.NET
+  - System Design
+  - Database Optimization
 
 Building:
-  - AI Powered Software
-  - Enterprise Desktop Applications
-  - Full Stack Projects
+  - Desktop Applications
+  - Java Projects
+  - C# Windows Forms Applications
   - Open Source Projects
 
 Exploring:
-  - Large Language Models (LLMs)
-  - Prompt Engineering
+  - Design Patterns
   - Software Architecture
-  - Distributed Systems
-  - DevOps
+  - GitHub Actions
+  - Full Stack Development
 
 Open_To:
   - Software Engineering Internship
   - Open Source Contributions
-  - AI Projects
-  - Freelance Opportunities
-  - Research Collaborations
+  - Desktop Application Development
+  - Java Development
+  - C#/.NET Development
 ```
+
+---
+
+# Development Philosophy
+
+> *"I believe great software is built through continuous learning, clean code, teamwork, and solving real-world problems one project at a time."*
 
 ---
 
@@ -638,7 +636,7 @@ Open_To:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/muhammad-asad">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -646,7 +644,7 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/asad594">
+<a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge"/>
 </a>
 
@@ -654,12 +652,26 @@ Open_To:
 
 ---
 
+# Support My Work
+
 <div align="center">
 
-### *"Building scalable software, solving real-world problems, and continuously learning to become a world-class Software Engineer."*
+If you like my projects, consider giving them a ⭐ on GitHub!
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+*"Code. Learn. Build. Improve. Repeat."*
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4B0082,20:5D3FD3,40:6A5ACD,60:7B68EE,80:8A2BE2,100:9370DB"/>
 
 </div>
+---
+
