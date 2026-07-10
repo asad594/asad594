@@ -640,5 +640,3 @@ If you like my projects, consider giving them a ⭐ on GitHub!
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4B0082,20:5D3FD3,40:6A5ACD,60:7B68EE,80:8A2BE2,100:9370DB"/>
 
 </div>
----
-
