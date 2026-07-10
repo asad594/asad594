@@ -577,18 +577,6 @@ Worked on software development projects while collaborating with a distributed t
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/asad594/asad594/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** The snake animation will work after adding the GitHub Actions workflow to your profile repository.
-
----
-
 # Current Focus
 
 ```yaml
