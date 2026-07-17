@@ -30,8 +30,12 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge"/>
+<a href="https://muhammadasadpportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio_1-6A0DAD?style=for-the-badge"/>
+</a>
+
+<a href="https://muhammadasadarshadportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio_2-6A0DAD?style=for-the-badge"/>
 </a>
 
 <br><br>
@@ -436,7 +440,7 @@ Classic Snake Game built in Java featuring smooth controls, collision detection,
 
 ## Software Engineering Intern *(Hybrid)*
 
-**ByteCorp Technologies**  
+**ByteCorp Technologies**
 **Jul 2026 – Present**
 
 Contributing to the development of a production-style backend system while working closely with experienced engineers and following modern software engineering practices.
@@ -456,7 +460,7 @@ Contributing to the development of a production-style backend system while worki
 
 ## Software Development Intern *(Remote)*
 
-**CodeAlpha**  
+**CodeAlpha**
 **2024 (4-Week Internship)**
 
 Completed a project-based software development internship focused on building production-quality Java applications while following industry-standard development practices.
@@ -470,6 +474,7 @@ Completed a project-based software development internship focused on building pr
 ### Technologies
 
 `Java` `OOP` `Git` `GitHub` `CSV File Handling` `Software Design Patterns`
+
 ---
 
 ### Skills
@@ -508,7 +513,6 @@ Completed a project-based software development internship focused on building pr
 ![](https://img.shields.io/badge/CodeAlpha-Software_Engineering_Intern-blueviolet?style=for-the-badge)
 
 ---
-
 
 ## Oracle
 
@@ -623,7 +627,7 @@ Open_To:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/muhammad-asad">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -631,8 +635,12 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge"/>
+<a href="https://muhammadasadpportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio_1-6A0DAD?style=for-the-badge"/>
+</a>
+
+<a href="https://muhammadasadarshadportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio_2-6A0DAD?style=for-the-badge"/>
 </a>
 
 </div>
