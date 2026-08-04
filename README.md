@@ -65,7 +65,7 @@ My primary interests lie in **Software Engineering, Desktop Application Developm
 
 I enjoy turning ideas into practical applications while continuously learning modern technologies and software engineering best practices.
 
-I have experience developing projects using **C#, Java, Python, SQL, Windows Forms, Java Swing, HTML, CSS, JavaScript, Streamlit, and GitHub.**
+I have experience developing projects using **C#, Java, Python, SQL, Windows Forms, Java Swing, Spring Boot, HTML, CSS, JavaScript, Streamlit, and GitHub.**
 
 My long-term goal is to become a highly skilled Software Engineer contributing to enterprise-scale software products.
 
@@ -109,7 +109,7 @@ My long-term goal is to become a highly skilled Software Engineer contributing t
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,mysql"/>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,mysql"/>
 
 </p>
 
@@ -132,6 +132,7 @@ My long-term goal is to become a highly skilled Software Engineer contributing t
 | Programming Languages | C#, Java, Python, C, C++ |
 | Web Development | HTML, CSS, JavaScript |
 | Desktop Development | Windows Forms, Java Swing |
+| Backend Development | Spring Boot, REST APIs |
 | Database | SQL, MySQL |
 | Core Concepts | OOP, Data Structures & Algorithms |
 | Software Engineering | SDLC, Design Patterns, Requirement Engineering |
@@ -465,6 +466,26 @@ Contributing to the development of a production-style backend system while worki
 
 ---
 
+## Java Development Intern *(Remote)*
+
+**Oasis InfoByte (OIBSIP)**
+**2026 (1-Month Internship)**
+
+Completed a project-based Java Development internship under the Oasis Infobyte Summer Internship Program (OIBSIP), building GUI-based desktop applications and gaining backend development experience with Spring Boot.
+
+### Responsibilities & Achievements
+
+- Built an **Online Examination System** using Java Swing, implementing a complete GUI-based exam workflow including timed tests, question navigation, and automated scoring.
+- Worked with **Spring Boot** to develop backend functionality, applying REST principles and Java-based backend architecture.
+- Applied core Object-Oriented Programming (OOP) principles — encapsulation, inheritance, and event-driven programming — to build maintainable, modular code.
+- Documented projects with detailed READMEs, including setup instructions and screenshot walkthroughs, and published them as open-source repositories on GitHub.
+
+### Technologies
+
+`Java` `Spring Boot` `Java Swing` `OOP` `REST APIs` `Git` `GitHub`
+
+---
+
 ## Software Development Intern *(Remote)*
 
 **CodeAlpha**
@@ -489,6 +510,7 @@ Completed a project-based software development internship focused on building pr
 `Python`
 `Java`
 `C#`
+`Spring Boot`
 `Streamlit`
 `Git`
 `GitHub`
@@ -504,6 +526,7 @@ Completed a project-based software development internship focused on building pr
 | Recognition | Details |
 |-------------|---------|
 | 🏆 CodeAlpha Internship | Successfully completed Software Engineering Internship |
+| 🏆 Oasis InfoByte Internship | Successfully completed Java Development Internship (OIBSIP) |
 | 🎓 Bahria University | Software Engineering Undergraduate |
 | 💻 Open Source | Active GitHub Contributor |
 | 🖥 Desktop Development | Developed multiple desktop applications |
@@ -518,6 +541,12 @@ Completed a project-based software development internship focused on building pr
 ## CodeAlpha
 
 ![](https://img.shields.io/badge/CodeAlpha-Software_Engineering_Intern-blueviolet?style=for-the-badge)
+
+---
+
+## Oasis InfoByte
+
+![](https://img.shields.io/badge/Oasis%20InfoByte-Java%20Development%20Intern-7B2CBF?style=for-the-badge)
 
 ---
 
