@@ -12,7 +12,7 @@
 
 ![](https://img.shields.io/badge/Bahria_University-Karachi-6C63FF?style=for-the-badge)
 ![](https://img.shields.io/badge/Software_Engineering-Batch_2028-5E60CE?style=for-the-badge)
-![](https://img.shields.io/badge/OasisInfoByte-Java-Intern-7B2CBF?style=for-the-badge)
+![](https://img.shields.io/badge/Oasis%20InfoByte-Java%20Intern-7B2CBF?style=for-the-badge)
 ![](https://img.shields.io/badge/CodeAlpha-Intern-7B2CBF?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Karachi-Pakistan-8A2BE2?style=for-the-badge)
