@@ -449,7 +449,7 @@ Classic Snake Game built in Java featuring smooth controls, collision detection,
 ## Software Engineering Intern *(Hybrid)*
 
 **ByteCorp Technologies**
-**Jul 2026 – Present**
+**June 2026 – Present**
 
 Contributing to the development of a production-style backend system while working closely with experienced engineers and following modern software engineering practices.
 
