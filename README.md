@@ -482,7 +482,7 @@ Classic Snake Game built in Java featuring smooth controls, collision detection,
 
 # Professional Experience
 
-## Software Engineering Intern *(Hybrid)*
+## Software Engineering Intern *(Onsite)*
 
 **ByteCorp Technologies**
 **1 October 2026 – Present**
@@ -502,7 +502,7 @@ Working on real-world projects in a professional software engineering environmen
 
 ---
 
-## Software Engineering Trainee *(Hybrid)*
+## Software Engineering Trainee *(Onsite)*
 
 **ByteCorp Technologies**
 **22 June 2026 – 1 October 2026** *(Structured Traineeship Program)*
