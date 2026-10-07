@@ -4,16 +4,16 @@
 
 # Muhammad Asad
 
-### Software Engineering Student • C# Developer • Java Developer • Problem Solver
+### Software Engineering Student • Full Stack Developer • Python & Java Developer • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;C%23+Developer;Java+Developer;Python+Developer;Desktop+Application+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Software+Engineering+Intern+%40+ByteCorp;Django+%26+React+Developer;C%23+%26+Java+Developer;Exploring+RAG+%26+AI+Applications;Always+Learning+New+Technologies"/>
 
 <br>
 
 ![](https://img.shields.io/badge/Bahria_University-Karachi-6C63FF?style=for-the-badge)
 ![](https://img.shields.io/badge/Software_Engineering-Batch_2028-5E60CE?style=for-the-badge)
+![](https://img.shields.io/badge/ByteCorp-Software_Engineering_Intern-7B2CBF?style=for-the-badge)
 ![](https://img.shields.io/badge/Oasis%20InfoByte-Java%20Intern-7B2CBF?style=for-the-badge)
-![](https://img.shields.io/badge/CodeAlpha-Intern-7B2CBF?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Karachi-Pakistan-8A2BE2?style=for-the-badge)
 
@@ -37,8 +37,8 @@
 
 <br><br>
 
-<a href="https://muhammadasadpportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio_1-6A0DAD?style=for-the-badge"/>
+<a href="https://muhammadasadarshad.dev">
+<img src="https://img.shields.io/badge/Portfolio-muhammadasadarshad.dev-6A0DAD?style=for-the-badge"/>
 </a>
 
 <a href="https://muhammadasadarshadportfolio.netlify.app/">
@@ -59,13 +59,13 @@
 
 # About Me
 
-I am a **Software Engineering undergraduate at Bahria University Karachi (Batch 2028)** who enjoys building reliable, scalable and user-friendly software solutions.
+I am a **Software Engineering undergraduate at Bahria University Karachi (Batch 2028)** and a **Software Engineering Intern at ByteCorp Technologies**, who enjoys building reliable, scalable and user-friendly software solutions.
 
-My primary interests lie in **Software Engineering, Desktop Application Development, Object-Oriented Programming, Data Structures & Algorithms, Database Design, and Full Stack Development.**
+My primary interests lie in **Software Engineering, Backend & Full Stack Development, REST API Design, Database Design, Object-Oriented Programming, Data Structures & Algorithms, and AI-powered applications (RAG).**
 
 I enjoy turning ideas into practical applications while continuously learning modern technologies and software engineering best practices.
 
-I have experience developing projects using **C#, Java, Python, SQL, Windows Forms, Java Swing, Spring Boot, HTML, CSS, JavaScript, Streamlit, and GitHub.**
+I have experience developing projects using **Python, Django, Django REST Framework, PostgreSQL, React, Tailwind CSS, C#, Java, SQL, Windows Forms, Java Swing, Spring Boot, Payload CMS, Streamlit, and GitHub.**
 
 My long-term goal is to become a highly skilled Software Engineer contributing to enterprise-scale software products.
 
@@ -75,10 +75,11 @@ My long-term goal is to become a highly skilled Software Engineer contributing t
 
 - Software Engineering Internships
 - Open Source Contributions
-- Desktop Application Development
-- Full Stack Development
+- Backend & Full Stack Development
+- Python / Django Development
 - Java Development
 - C#/.NET Development
+- AI / RAG-based Applications
 - Collaborative Projects
 
 ---
@@ -99,7 +100,7 @@ My long-term goal is to become a highly skilled Software Engineer contributing t
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nextjs"/>
 
 </p>
 
@@ -109,7 +110,7 @@ My long-term goal is to become a highly skilled Software Engineer contributing t
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,spring,mysql"/>
+<img src="https://skillicons.dev/icons?i=django,dotnet,spring,postgres,mysql"/>
 
 </p>
 
@@ -119,7 +120,7 @@ My long-term goal is to become a highly skilled Software Engineer contributing t
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,idea"/>
 
 </p>
 
@@ -129,19 +130,54 @@ My long-term goal is to become a highly skilled Software Engineer contributing t
 
 | Category | Skills |
 |---------|---------|
-| Programming Languages | C#, Java, Python, C, C++ |
-| Web Development | HTML, CSS, JavaScript |
+| Programming Languages | Python, Java, C#, C, C++, JavaScript |
+| Web Development | HTML, CSS, JavaScript, React 19, Vite, Tailwind CSS v4, TanStack Query |
+| Backend Development | Django, Django REST Framework, Spring Boot, REST API Design, JWT Authentication, Google OAuth, Role-Based Access Control |
+| CMS & Fullstack | Payload CMS, Next.js |
+| Database | PostgreSQL, SQL, MySQL, Database Schema Design (ERD, Normalization, Indexing), Multi-Database Routing |
 | Desktop Development | Windows Forms, Java Swing |
-| Backend Development | Spring Boot, REST APIs |
-| Database | SQL, MySQL |
+| AI | RAG (Retrieval-Augmented Generation) *(learning / building practice project)* |
 | Core Concepts | OOP, Data Structures & Algorithms |
-| Software Engineering | SDLC, Design Patterns, Requirement Engineering |
-| Tools | Git, GitHub, Visual Studio, VS Code, IntelliJ IDEA |
+| Software Engineering | SDLC, Design Patterns, Requirement Engineering, SRS Documentation, Technical Documentation |
+| Testing & Observability | Postman API Testing, Structured Logging & Observability |
+| Tools | Git, GitHub, Postman, Visual Studio, VS Code, IntelliJ IDEA |
 | Other | Streamlit, MIPS Assembly, System Design (Basics) |
 
 ---
 
 # Featured Projects
+
+<details>
+<summary>
+
+## ByteCorp Job Board Platform
+
+</summary>
+
+A modern, decoupled, multi-tier recruitment and career management platform built during the ByteCorp Traineeship Program, with role-based authentication, job search and filtering, application pipelines, a headless CMS and isolated request logging.
+
+| Category | Details |
+|----------|----------|
+| Stack | Python • Django 6 • Django REST Framework • PostgreSQL • React 19 • Vite • Tailwind CSS v4 • TanStack Query • Payload CMS 3 • Next.js 16 |
+| Scale | Fullstack, Multi-Tier Platform |
+| Performance | Optimized Indexing • Isolated Logging Database |
+| Security | JWT Authentication • Google OAuth • Role-Based Access Control |
+| Impact | Complete Recruitment & Hiring Workflow |
+| Repository | [bytecorp-training-tasks](https://github.com/asad594/bytecorp-training-tasks) |
+| Live Demo | [bytecorp-training-tasks.vercel.app](https://bytecorp-training-tasks.vercel.app) |
+
+### Highlights
+
+- Three user roles: Job Seeker, Company Rep and Admin, each with fine-grained permissions
+- Application workflow: pending → reviewed → shortlisted / rejected
+- Dual PostgreSQL setup: primary database plus a dedicated logs database for structured JSON request logs
+- Company verification, user ban controls and admin moderation
+- Headless CMS built with Payload CMS 3 and Next.js 16
+- Postman collection, API reference, ERD and SRS documentation
+
+</details>
+
+---
 
 <details>
 <summary>
@@ -241,7 +277,7 @@ Interactive educational desktop application that visualizes classic algorithms t
 
 </summary>
 
-A recipe discovery web application developed during my CodeAlpha internship that allows users to search recipes using ingredients with a clean and responsive interface.
+A recipe discovery web application that allows users to search recipes using ingredients with a clean and responsive interface.
 
 | Category | Details |
 |----------|----------|
@@ -449,20 +485,42 @@ Classic Snake Game built in Java featuring smooth controls, collision detection,
 ## Software Engineering Intern *(Hybrid)*
 
 **ByteCorp Technologies**
-**June 2026 – Present**
+**1 October 2026 – Present**
 
-Contributing to the development of a production-style backend system while working closely with experienced engineers and following modern software engineering practices.
+Working on real-world projects in a professional software engineering environment, applying the skills built during the traineeship to real business requirements.
 
 ### Responsibilities & Achievements
 
-- Collaborating with a technical mentor on the end-to-end development of a production-style backend system, from database design through API implementation and security.
-- Following a structured pull request (PR)-based workflow, submitting code for review and incorporating mentor feedback to meet production-grade engineering standards.
-- Taking ownership of independent modules, including database schema design, authentication, and authorization, while following industry-standard Git and version control practices.
-- Successfully delivered **Phase 1** of the project on schedule, with upcoming phases focused on advanced software design patterns and scalable backend architecture.
+- Working on real-world projects and contributing to the design, development and improvement of production-style features across the stack.
+- Collaborating with mentors and team members while following best practices for clean code, pull request-based reviews, version control and documentation.
+- Taking ownership of independent modules and incorporating review feedback to meet production-grade engineering standards.
+- Continuously learning new tools and technologies and applying them to deliver reliable, maintainable software.
 
 ### Technologies
 
-`PostgreSQL` `SQL` `REST APIs` `Authentication` `Authorization` `Git` `GitHub` `Backend Development`
+`Full-Stack Development` `Real-World Projects` `Team Collaboration` `Git` `GitHub`
+
+---
+
+## Software Engineering Trainee *(Hybrid)*
+
+**ByteCorp Technologies**
+**22 June 2026 – 1 October 2026** *(Structured Traineeship Program)*
+
+Completed a structured traineeship program focused on building a production-style **Job Board Platform**, working closely with a technical mentor from database design through API implementation, frontend and CMS integration.
+
+### Responsibilities & Achievements
+
+- Designed a normalized PostgreSQL database schema with ERD and optimized indexing.
+- Built REST APIs with Django REST Framework, including JWT authentication, Google OAuth and role-based access control.
+- Developed a React 19 and Tailwind CSS frontend with TanStack Query for data caching and optimistic updates.
+- Integrated a headless CMS using Payload CMS 3 and Next.js 16, and wrote API reference, database schema and SRS documentation.
+- Followed a structured pull request (PR)-based workflow, submitting code for review and incorporating mentor feedback.
+- Delivered the project on schedule: [ByteCorp Job Board Platform](https://github.com/asad594/bytecorp-training-tasks).
+
+### Technologies
+
+`Django` `Django REST Framework` `PostgreSQL` `React` `Tailwind CSS` `TanStack Query` `Payload CMS` `Next.js` `REST APIs` `JWT` `Postman` `Git` `GitHub`
 
 ---
 
@@ -486,32 +544,21 @@ Completed a project-based Java Development internship under the Oasis Infobyte S
 
 ---
 
-## Software Development Intern *(Remote)*
-
-**CodeAlpha**
-**2024 (4-Week Internship)**
-
-Completed a project-based software development internship focused on building production-quality Java applications while following industry-standard development practices.
-
-### Responsibilities & Achievements
-
-- Delivered two production-quality Java applications: **Student Grade Manager** and **Hotel Reservation System**, developed according to real internship specifications and reviewed on GitHub.
-- Applied clean coding principles, Object-Oriented Programming (OOP), software design patterns, Git version control, and comprehensive project documentation throughout the internship.
-- Both project submissions were adopted as **reference implementations** on the internship platform following positive architecture and code quality reviews.
-
-### Technologies
-
-`Java` `OOP` `Git` `GitHub` `CSV File Handling` `Software Design Patterns`
-
----
-
 ### Skills
 
 `Python`
+`Django`
+`Django REST Framework`
+`PostgreSQL`
+`React`
+`Tailwind CSS`
+`Payload CMS`
+`Next.js`
 `Java`
 `C#`
 `Spring Boot`
 `Streamlit`
+`RAG`
 `Git`
 `GitHub`
 `OOP`
@@ -525,9 +572,10 @@ Completed a project-based software development internship focused on building pr
 
 | Recognition | Details |
 |-------------|---------|
-| 🏆 CodeAlpha Internship | Successfully completed Software Engineering Internship |
+| 💼 ByteCorp Technologies | Completed Software Engineering Traineeship and currently working as a Software Engineering Intern |
 | 🏆 Oasis InfoByte Internship | Successfully completed Java Development Internship (OIBSIP) |
 | 🎓 Bahria University | Software Engineering Undergraduate |
+| 🚀 Fullstack Project | Built the ByteCorp Job Board Platform (Django, React, PostgreSQL, Payload CMS) |
 | 💻 Open Source | Active GitHub Contributor |
 | 🖥 Desktop Development | Developed multiple desktop applications |
 | 📚 Continuous Learning | Constantly improving programming and software engineering skills |
@@ -537,12 +585,6 @@ Completed a project-based software development internship focused on building pr
 ---
 
 # Certifications
-
-## CodeAlpha
-
-![](https://img.shields.io/badge/CodeAlpha-Software_Engineering_Intern-blueviolet?style=for-the-badge)
-
----
 
 ## Oasis InfoByte
 
@@ -606,21 +648,11 @@ Completed a project-based software development internship focused on building pr
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad594&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
 Learning:
-  - React
+  - RAG (Retrieval-Augmented Generation)
   - Docker
   - Advanced Java
   - ASP.NET
@@ -628,21 +660,23 @@ Learning:
   - Database Optimization
 
 Building:
+  - Real-world projects at ByteCorp
+  - Full Stack Web Applications (Django + React)
   - Desktop Applications
-  - Java Projects
-  - C# Windows Forms Applications
+  - Java and C# Projects
   - Open Source Projects
 
 Exploring:
+  - AI-powered Applications
   - Design Patterns
   - Software Architecture
   - GitHub Actions
-  - Full Stack Development
 
 Open_To:
   - Software Engineering Internship
   - Open Source Contributions
-  - Desktop Application Development
+  - Backend & Full Stack Development
+  - Python / Django Development
   - Java Development
   - C#/.NET Development
 ```
@@ -677,8 +711,8 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://muhammadasadpportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio_1-6A0DAD?style=for-the-badge"/>
+<a href="https://muhammadasadarshad.dev">
+<img src="https://img.shields.io/badge/Portfolio-muhammadasadarshad.dev-6A0DAD?style=for-the-badge"/>
 </a>
 
 <a href="https://muhammadasadarshadportfolio.netlify.app/">
